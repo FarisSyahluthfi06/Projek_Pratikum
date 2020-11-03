@@ -260,7 +260,7 @@ Output dari source code contoh diatas akan muncul seperti ini :<br>
 
 Berikut Soal lab 2 <br>
 
-![Soal2](foto/soal2.png) <br>
+![Soal2](foto/Soal2.png) <br>
 
 * Menampilkan hasil print<br>
 
