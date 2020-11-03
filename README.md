@@ -113,7 +113,7 @@ print('Z')
 
 ```
 
-Hasil dari source code tersebut seperti gambar dibawah ini :<br>
+Output dari source code tersebut seperti gambar dibawah ini :<br>
 
 ![OutputEND](foto/OutputEND.png)
 
@@ -187,7 +187,7 @@ String formatting atau pemformatan string memungkinan kita menyuntikkan item ked
 
 * Penggunaan source code yang di berikan oleh dosen seperti berikut : <br>
 
-![stringg](poto/stringg.png) <br>
+![String](foto/String.png) <br>
 
 ``` python
 
@@ -227,7 +227,7 @@ Yang pertama (sebelah kiri) akan menampilkan angka urut dari angka 0 hingga 10, 
 Dengan ketentuan sebagai berikut, Operasi pangkat dengan angka kiri sebagai pokok (Rumus : ** [bintang dua] )<br>
  Hasil dari syntax tersebut adalah 10 pangkat 0, hingga 10 pangkat 10, dengan output  sebagai berikut : <br>
 
- ![Operasi Aritmatika Pangkat](poto/hasilstringg.png)
+ ![Operasi Aritmatika Pangkat](foto/OutputString.png)
  
  2 ** String Format 2** <br>
  Pada syntax atau source code string format dua akan menampilkan output berupa 2 output'an juga (seperti String Format 1, yaitu kanan dan kiri )<br>
