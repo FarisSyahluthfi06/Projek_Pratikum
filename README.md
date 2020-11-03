@@ -248,8 +248,8 @@ Hasil dari source code contoh diatas akan seperti berikut :<br>
 
 ``` python
 
-print('{:<30}{:30}{:>30}'.format('kiri','tengah','kanan'))
-print('{:<30}{:30}{:>30}'.format(10,20,30))
+print('{:<20}{:25}{:>30}'.format('kiri','tengah','kanan'))
+print('{:<20}{:25}{:>30}'.format(10,20,30))
 
 ```
 
@@ -264,7 +264,7 @@ String Format
 
 Untuk hasil dari String Format 2 adalah :<br>
 
-![Output String Format 2](gambar/string2.PNG)
+![Output String Format 2](foto/Soal2.png)
 
 <br><hr><br>
 
