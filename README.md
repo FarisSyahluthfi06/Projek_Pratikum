@@ -1,7 +1,7 @@
 # Tugas ini untuk melengkapi pertemuan ke 6 <br>
 # Dan menjelaskan project <br>
 
-![Logo](foto/Logo.jpeg)
+![Logo](foto/Logo.png)
 
 **Nama : Faris Syahluthfi** <br>
 **Nim  : 312010034** <br>
@@ -18,7 +18,7 @@ DAFTAR ISI
 ## Pertemuan 5 - Tugas
 
 Pada pertemuan 5 Bahasa Pemrograman saya diberi tugas oleh Dosen untuk membuat Biodata Diri menggunakan Aplikasi Python Berikut dibawah ini contoh soalnya: <br>
-![pertemuan](foto/soal5.png) <br>
+![pertemuan](foto/pertemuan5.png) <br>
 Saat ini saya akan menjelaskan hasil dari tugas tersebut. <br>
 Berikut *source code* nya atau Klik Link berikut ([pertemuan5 python](pertemuan5.py)): <br>
 ```python <br>
