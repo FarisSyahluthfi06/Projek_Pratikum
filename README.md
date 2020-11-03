@@ -248,13 +248,13 @@ Hasil dari source code contoh diatas akan seperti berikut :<br>
 
 ``` python
 
-`print('{:<30}{:30}{:>30}'.format('kiri','tengah','kanan'))`
-`print('{:<30}{:30}{:>30}'.format(7,20,34))`
+print('{:<30}{:30}{:>30}'.format('kiri','tengah','kanan'))
+print('{:<30}{:30}{:>30}'.format(10,20,30))
 
 ```
 
-Hasil dari source code contoh diatas akan muncul seperti ini :<br>
-![sourcecode](poto/sourcecode.png)
+Output dari source code contoh diatas akan muncul seperti ini :<br>
+![OutputFormat](foto/OutputFormat.png)
 <br><br>
 
 String Format
