@@ -272,4 +272,4 @@ Output dari source code contoh diatas akan muncul seperti ini : <br>
 
 **TERIMA KASIH** <br>
 
-![kelar](poto/kelar.png)
+![Terimakasih](foto/Terimakasih.png)
