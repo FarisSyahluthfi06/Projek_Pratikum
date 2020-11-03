@@ -236,14 +236,14 @@ Dengan ketentuan sebagai berikut, Operasi pangkat dengan angka kiri sebagai poko
 
  ``` python
 
-`print('{0:8} | {1:9}'.format('Nama orang','Jumlah'))`
-`print('{0:8} | {1:9}'.format('Alek',3.))`
-`print('{0:8} | {1:9}'.format('Jony',10))`
+print('{0:8} | {1:9}'.format('Nama orang','Jumlah'))
+print('{0:8} | {1:9}'.format('Faris',1.))
+print('{0:8} | {1:9}'.format('Adam Ary',10))
 
 ```
 
 Hasil dari source code contoh diatas akan seperti berikut :<br>
-![hhasilstring](poto/hhasilstring.png)
+![hasilstring](poto/Stringg.png)
 >Secara Default,**.format()** menggunakan rata text ke kiri, angka ke kanan, kita dapat menggunakan opsi opsional<,^,atau > untuk mengatur perataan kiri, tengah, atau kanan. Contoh lain dalam penggunaan **.format()** sebagai berikut : <br>
 
 ``` python
