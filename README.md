@@ -8,6 +8,8 @@
 **Kelas: TI.A1.20** <br>
 **Tugas: Bahasa Pemrogramman** <br>
 
+![Faris](foto/Faris.png)
+
 DAFTAR ISI
 | No | Description | Link |
 | ----- | ----- | ----- |
@@ -270,6 +272,6 @@ Output dari source code contoh diatas akan muncul seperti ini : <br>
 
 ![OutputLab2](foto/OutputLab2.png)
 
-**TERIMA KASIH** <br>
+
 
 ![Terimakasih](foto/Terimakasih.png)
