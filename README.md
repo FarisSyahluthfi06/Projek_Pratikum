@@ -52,7 +52,7 @@ print("Nama saya adalah...") <br>
 print(1234567) <br>
 ```
 (Seperti gambar dibawah ini) <br> 
-![outputprint](poto/OutputPrint.png )
+![OutputPrint](poto/OutputPrint.png )
 * Untuk source code berikutnya adalah inputan atau membuat variable. seperti syntax dibawah ini : <br>
 
  ```python 
