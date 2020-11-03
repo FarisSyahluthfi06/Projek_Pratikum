@@ -89,9 +89,9 @@ Penggunaan end digunakan untuk menambahkan karakter yang dicetak di akhir baris.
 
 ``` python
 
-`print('A', end='')`
-`print('B', end='')`
-`print('C', end='')`
+print ('A', end='')
+print('B', end='')
+print('C', end='')
 
 ```
 
@@ -107,9 +107,9 @@ Penggunaan end digunakan untuk menambahkan karakter yang dicetak di akhir baris.
 
 ``` python
 
-`print('X')`
-`print('Y')`
-`print('z')`
+print('X')
+print('Y')
+print('Z')
 
 ```
 
@@ -131,7 +131,7 @@ w,x,y,z=10,15,20,25
 
 ``` python
 
-`print(w,x,y,z)`
+print(w,x,y,z)
 
 ```
 
@@ -139,7 +139,7 @@ w,x,y,z=10,15,20,25
 
 ``` python
 
-`print(w,x,y,z,sep=",")`
+print(w, x, y, z, sep=",")
 
 ```
 
@@ -147,7 +147,7 @@ w,x,y,z=10,15,20,25
 
 ``` python
 
-`print(w,x,y,z,sep="")`
+print(w, x, y, z, sep="")
 
 ```
 
@@ -155,7 +155,7 @@ w,x,y,z=10,15,20,25
 
 ``` python
 
-`print(w,x,y,z,sep=":")`
+print(w, x, y, z, sep=" : ")
 
 ```
 
@@ -165,13 +165,13 @@ w,x,y,z=10,15,20,25
 
 ``` python
 
-`print(w,x,y,z,sep="-----")`
+print(w, x, y, z, sep=" _ _ _ _ _ ")
 
 ```
 
-* hasil dari syntax / source code diatas adalah seperti berikut ini : <br>
+* Output dari syntax / source code diatas adalah seperti berikut ini : <br>
 
-![hasilsyntax](poto/hasilsyntax.png)
+![OutpuSyntax](foto/OutputSyntax.png)
 
 
 
