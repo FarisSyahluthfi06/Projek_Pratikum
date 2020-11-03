@@ -243,7 +243,7 @@ print('{0:8} | {1:9}'.format('Adam Ary',10))
 ```
 
 Hasil dari source code contoh diatas akan seperti berikut :<br>
-![hasilstring](poto/Stringg.png)
+![hasilstring](foto/Stringg.png)
 >Secara Default,**.format()** menggunakan rata text ke kiri, angka ke kanan, kita dapat menggunakan opsi opsional<,^,atau > untuk mengatur perataan kiri, tengah, atau kanan. Contoh lain dalam penggunaan **.format()** sebagai berikut : <br>
 
 ``` python
