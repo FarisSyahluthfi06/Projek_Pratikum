@@ -266,9 +266,9 @@ Berikut Soal lab 2 <br>
 
 ![Lab2](foto/Lab2.png) <br>
 
-Contoh syntax variabel : <br>
+Output dari source code contoh diatas akan muncul seperti ini : <br>
 
-![hasilvariable](poto/hasilvariable.png)
+![OutputLab2](foto/OutputLab2.png)
 
 **TERIMA KASIH** <br>
 
