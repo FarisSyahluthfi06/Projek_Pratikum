@@ -262,9 +262,9 @@ Berikut Soal lab 2 <br>
 
 ![Soal2](foto/Soal2.png) <br>
 
-* Menampilkan hasil print<br>
+* Penggunaan source code yang di berikan oleh dosen seperti berikut :<br>
 
-![project](poto/project.png) <br>
+![Lab2](foto/Lab2.png) <br>
 
 Contoh syntax variabel : <br>
 
