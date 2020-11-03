@@ -57,27 +57,28 @@ print(My NIM 1234567) <br>
 
 ## Pertemuan 6 - Lab 1
 
-Pada halaman ini (Tugas Pertemuan 6 - Lab 1) saya diberikan tugas oleh Dosen yaitu mempelajari operator aritmatika menggunakan bahasa Pemrograman pyhton. Berikut source code yang di berikan oleh dosen : <br>
+Pada pertemuan ke 6 saya diberikan tugas oleh Dosen yaitu untuk mempelajari operator aritmatika menggunakan bahasa Pemrograman pyhton. Berikut ini adalah source code yang di berikan oleh dosen : <br>
 
 ``` python
 
-#penggunaan end
-print('A', end='')
+# Penggunaan end
+
+print ('A', end='')
 print('B', end='')
 print('C', end='')
 print()
 print('X')
 print('Y')
-print('z')
+print('Z')
 
-#penggunaan separator
+# Penggunaan separator
+w, x, y, z = 10, 15, 20, 25
+print(w, x, y, z)
+print(w,x, y, z,  sep=' , ')
+print(w,x, y, z,  sep=' ')
+print(w,x, y, z,  sep=' : ')
+print(w,x, y, z,  sep=' _ _ _ _ _ ')
 
-`w, x, y, z = 10, 15, 20, 25`
-`print(w, x, y, z)`
-`print(w, x, y, z, sep=',')`
-`print(w, x, y, z, sep='')`
-`print(w, x, y, z, sep=':')`
-`print(w, x, y, z, sep='.....')`
 
 ```
 
@@ -114,7 +115,7 @@ Penggunaan end digunakan untuk menambahkan karakter yang dicetak di akhir baris.
 
 Hasil dari source code tersebut seperti gambar dibawah ini :<br>
 
-![outputend](poto/outputend.png)
+![OutputEND](foto/OutputEND.png)
 
 * Penggunaan separator
 
