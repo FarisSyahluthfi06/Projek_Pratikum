@@ -257,24 +257,15 @@ Output dari source code contoh diatas akan muncul seperti ini :<br>
 ![OutputFormat](foto/OutputFormat.png)
 <br><br>
 
-String Format
 
-![sstringg](poto/sstringg.png)
-
-
-Untuk hasil dari String Format 2 adalah :<br>
-
-![Output String Format 2](foto/Soal2.png)
-
-<br><hr><br>
 
 # Pengertian print <br>
 
 `print` <br>
 
-* print("Tugas ini untuk melengkapi pertemuan 6") <br>
+Berikut Soal lab 2 <br>
 
-![print](poto/print.png) <br>
+![lab2](foto/soal2.png) <br>
 
 * Menampilkan hasil print<br>
 
