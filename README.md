@@ -258,14 +258,9 @@ Output dari source code contoh diatas akan muncul seperti ini :<br>
 <br><br>
 
 
-
-# Pengertian print <br>
-
-`print` <br>
-
 Berikut Soal lab 2 <br>
 
-![lab2](foto/soal2.png) <br>
+![Soal2](foto/soal2.png) <br>
 
 * Menampilkan hasil print<br>
 
